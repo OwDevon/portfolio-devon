@@ -48,7 +48,7 @@ export const gridItems = [
   },
   {
     id: 5,
-    title: "Actuellement en train d’explorer l’animation en JavaScript",
+    title: "Actuellement en train d’apprendre React",
     description: "Mes expérimentations en cours",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -75,7 +75,7 @@ export const projects = [
     des: "Création d'une application de video conférence.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://www.youtube.com",
+    link: "https://github.com/OwDevon/Yoom",
   },
   {
     id: 3,
