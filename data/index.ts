@@ -91,7 +91,7 @@ export const projects = [
     des: "Création de l'interface d'un site de chatbot IA.",
     img: "p3.png",
     iconLists: ["/re.svg", "/tail.svg", "/three.svg", "/gsap.svg"],
-    link: "https://brainwave-devon.vercel.app",
+    link: "https://github.com/OwDevon/brainwave",
   },
 ];
 
